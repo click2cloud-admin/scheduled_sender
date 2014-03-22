@@ -1,4 +1,4 @@
-Ruby destktop application
+Ruby desktop application
 ===========================================
 
 Rufus scheduler application for sending images and email to users
